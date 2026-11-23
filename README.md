@@ -1,5 +1,5 @@
 
-## Hi, I'm Camilla!
+## Hi, I'm Camilla!⋆.𐙚 ̊
 
 I'm an MSc Finance student at the **Stockholm School of Economics**, specializing in Corporate Finance and pursuing the Data Analytics track. I previously studied International Politics and Government at **Bocconi University**, including an exchange semester at **Sciences Po**.
 
