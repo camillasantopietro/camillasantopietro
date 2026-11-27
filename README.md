@@ -14,9 +14,9 @@ I'm especially interested in startups working on everything from clean energy an
 
 ## Technical Toolkit
 
-**Finance & Investment Analysis:** Corporate finance, financial statement analysis, asset pricing, portfolio analysis and valuation. Planning to deepen my knowledge of venture capital, private equity and value investing.
-**Econometrics & Computational Methods:** Statistical inference, regression analysis, causal inference, panel data econometrics, time-series analysis, machine learning and LLMs. Further developing my skills in data science and Python-based research.
-**Programming, Data & Software:** Python (pandas, NumPy, SciPy, scikit-learn, statsmodels, linearmodels, Matplotlib), SQL, Stata, Bloomberg Terminal, Excel, APIs, web scraping and data pipelines.
+- **Finance & Investment Analysis:** Corporate finance, financial statement analysis, asset pricing, portfolio analysis and valuation. Planning to deepen my knowledge of venture capital, private equity and value investing.
+- **Econometrics & Computational Methods:** Statistical inference, regression analysis, causal inference, panel data econometrics, time-series analysis, machine learning and LLMs. Further developing my skills in data science and Python-based research.
+- **Programming, Data & Software:** Python (pandas, NumPy, SciPy, scikit-learn, statsmodels, linearmodels, Matplotlib), SQL, Stata, Bloomberg Terminal, Excel, APIs, web scraping and data pipelines.
 
 ## Research & Projects
 
